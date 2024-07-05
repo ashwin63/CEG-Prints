@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CEG Prints</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Help</string>
+    <string name="title_activity_qrcode">qrcode</string>
+    <string name="rate_title">Rate this app</string>
+    <string name="rate_explanation">Has this app convinced you?We would be very happy if you could rate our application on Google Play. Thanks for your support!</string>
+    <string name="rate_now">Rate now</string>
+    <string name="rate_later">Later</string>
+    <string name="rate_never">No,  thanks</string>
+</resources>
