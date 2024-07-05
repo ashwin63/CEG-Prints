@@ -30,9 +30,9 @@ STEP 4: SCAN THE QR CODE DISPLAYED IN THE MONITOR. (adjust your phone’s distan
 Your file will be printed. Click OK to redirect to the home page. 
 
 Screenshots: 
-![4](https://github.com/ashwin63/CEG-Prints/assets/26385060/3310990a-529b-401f-a320-2ab701d6508f)
-![3](https://github.com/ashwin63/CEG-Prints/assets/26385060/85dc0fe1-54e8-4ae2-895a-03db78bb82e8)
-![2](https://github.com/ashwin63/CEG-Prints/assets/26385060/5efa2c37-f558-47be-9c3a-e5f7b1045c18)
-![1](https://github.com/ashwin63/CEG-Prints/assets/26385060/f2ba5fe0-51e6-40e3-bf37-3db7a1d5e22d)
+![1](https://github.com/ashwin63/CEG-Prints/assets/26385060/3310990a-529b-401f-a320-2ab701d6508f)
+![2](https://github.com/ashwin63/CEG-Prints/assets/26385060/85dc0fe1-54e8-4ae2-895a-03db78bb82e8)
+![3](https://github.com/ashwin63/CEG-Prints/assets/26385060/5efa2c37-f558-47be-9c3a-e5f7b1045c18)
+![4](https://github.com/ashwin63/CEG-Prints/assets/26385060/f2ba5fe0-51e6-40e3-bf37-3db7a1d5e22d)
 
 
