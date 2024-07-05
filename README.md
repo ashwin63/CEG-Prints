@@ -18,17 +18,17 @@ Installation Instructions
 
 CEG TECH FORUM (CTF) PROJECTS HAS CREATED A MOBILE APP THAT PROVIDES YOU THE FACILITY TO PRINT YOUR FILES DIRECTLY FROM YOUR PHONE.
 
-APP INSTALLATION
+APP INSTALLATION<br/>
 STEP 1: CONNECT TO OUR WIFI NETWORK  “AMENITIES”
 
 PRINTING FILE USING THE APP <br/>
-STEP 1: CONNECT TO OUR WIFI NETWORK   “AMENITIES” <br />
-STEP 2: USE THE ‘Print’ APP AND SELECT THE FILE FROM YOUR PHONE TO PRINT AND CLICK ‘PRINT’.
-STEP 3: SELECT THE PRINTING PROPERTIES PROVIDED. (No.of.copies) (Single-sided/double-sided)
-STEP 4: SCAN THE QR CODE DISPLAYED IN THE MONITOR. (adjust your phone’s distance from the monitor to scan properly)
-Your file will be printed. Click OK to redirect to the home page. 
+STEP 1: CONNECT TO OUR WIFI NETWORK   “AMENITIES”<br/>
+STEP 2: USE THE ‘Print’ APP AND SELECT THE FILE FROM YOUR PHONE TO PRINT AND CLICK ‘PRINT’.<br/>
+STEP 3: SELECT THE PRINTING PROPERTIES PROVIDED. (No.of.copies) (Single-sided/double-sided)<br/>
+STEP 4: SCAN THE QR CODE DISPLAYED IN THE MONITOR. (adjust your phone’s distance from the monitor to scan properly)<br/>
+Your file will be printed. Click OK to redirect to the home page. <br/>
 
-Sreenshots:
+Sreenshots:<br/>
 Android application:
 <div style="display: flex; justify-content: space-around;">
     <img src="https://github.com/ashwin63/CEG-Prints/assets/26385060/f2ba5fe0-51e6-40e3-bf37-3db7a1d5e22d" alt="Image 1" style="width: 23%;"/>
